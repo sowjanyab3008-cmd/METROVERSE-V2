@@ -1,0 +1,25 @@
+ActivityID,DisplayName,Category,Description,RewardMC,RewardXP,CooldownHours,bRequiresFaction
+ACT-001,City Courier,Work,Deliver parcels between city districts,220,90,0,false
+ACT-002,Taxi Shift,Work,Complete passenger trips around the city,260,110,0,false
+ACT-003,Bus Route,Work,Operate a scheduled public transport route,300,130,0,false
+ACT-004,Freight Haul,Work,Transport cargo between industrial depots,380,160,0,false
+ACT-005,Airport Ground Crew,Work,Assist aircraft turnaround and baggage tasks,320,140,0,false
+ACT-006,Street Cleanup,Civic,Collect litter at marked public locations,140,60,12,false
+ACT-007,Community Help,Civic,Assist an NPC at a community service point,180,75,12,false
+ACT-008,Park Volunteer,Civic,Help maintain a city park,160,70,24,false
+ACT-009,Library Visit,Social,Visit the city library and complete a reading task,80,35,24,false
+ACT-010,Meet a Friend,Social,Meet another player at a public venue,100,45,12,false
+ACT-011,Attend City Event,Social,Participate in a scheduled public event,200,90,12,false
+ACT-012,News Interview,Media,Complete a community interview assignment,180,85,12,true
+ACT-013,Publish City Bulletin,Media,Prepare an approved local news bulletin,220,100,24,true
+ACT-014,Medical Outreach,Service,Join a hospital public health event,220,100,24,true
+ACT-015,First Aid Workshop,Service,Attend a supervised first aid workshop,160,75,24,true
+ACT-016,Traffic Awareness,Service,Support an approved road-safety event,180,80,24,true
+ACT-017,Government Service,Public,Complete an approved citizen service task,240,110,24,true
+ACT-018,Attend Council Meeting,Public,Attend a public city council session,120,55,24,false
+ACT-019,Small Business Shift,Business,Complete a shift at a player-owned business,260,115,12,false
+ACT-020,Market Delivery,Business,Deliver supplies to a local shop,190,85,12,false
+ACT-021,Photography Walk,Hobby,Photograph three marked city landmarks,120,55,12,false
+ACT-022,Landmark Tour,Hobby,Visit a set of city landmarks,150,65,24,false
+ACT-023,Driving Practice,Hobby,Complete a supervised driving course,100,50,24,false
+ACT-024,City Sports Day,Hobby,Join a non-contact community sports activity,140,60,24,false

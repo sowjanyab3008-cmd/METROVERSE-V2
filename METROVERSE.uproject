@@ -1,0 +1,14 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.6",
+  "Category": "Games",
+  "Description": "METROVERSE RP - Unreal Engine 5 native multiplayer roleplay foundation",
+  "Modules": [
+    { "Name": "METROVERSE", "Type": "Runtime", "LoadingPhase": "Default" }
+  ],
+  "Plugins": [
+    { "Name": "EnhancedInput", "Enabled": true },
+    { "Name": "ChaosVehicles", "Enabled": true },
+    { "Name": "ModelingToolsEditorMode", "Enabled": true }
+  ]
+}

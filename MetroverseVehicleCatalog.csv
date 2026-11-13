@@ -1,0 +1,141 @@
+VehicleID,DisplayName,Category,VehicleClass,BodyStyle,Seats,TopSpeedKmh,Acceleration0To100Sec,Handling,FuelType,DriveType,BasePriceMC,Description
+CAR-001,Aster S1 01,Car,Compact,Hatchback,5,155,11.5,5.5,Electric,FWD,18000,Compact class hatchback for Metroverse city driving.
+CAR-002,Boreal S1 02,Car,Compact,Hatchback,5,163,11.25,6.0,Hybrid,FWD,19250,Compact class hatchback for Metroverse city driving.
+CAR-003,Cinder S1 03,Car,Compact,Hatchback,5,171,11.0,6.5,Petrol,FWD,20500,Compact class hatchback for Metroverse city driving.
+CAR-004,Dynamo S1 04,Car,Compact,Hatchback,5,179,10.75,7.0,Petrol,FWD,21750,Compact class hatchback for Metroverse city driving.
+CAR-005,Eclipse S1 05,Car,Compact,Hatchback,5,187,11.5,7.5,Petrol,FWD,23000,Compact class hatchback for Metroverse city driving.
+CAR-006,Falcon S1 06,Car,Compact,Hatchback,5,195,11.25,8.0,Electric,FWD,24250,Compact class hatchback for Metroverse city driving.
+CAR-007,Granite S1 07,Car,Compact,Hatchback,5,203,11.0,5.5,Hybrid,FWD,25500,Compact class hatchback for Metroverse city driving.
+CAR-008,Helix S1 08,Car,Compact,Hatchback,5,155,10.75,6.0,Petrol,FWD,26750,Compact class hatchback for Metroverse city driving.
+CAR-009,Ion S1 09,Car,Compact,Hatchback,5,163,11.5,6.5,Petrol,FWD,28000,Compact class hatchback for Metroverse city driving.
+CAR-010,Javelin S1 10,Car,Compact,Hatchback,5,171,11.25,7.0,Petrol,FWD,29250,Compact class hatchback for Metroverse city driving.
+CAR-011,Kestrel S1 11,Car,Compact,Hatchback,5,179,11.0,7.5,Electric,FWD,30500,Compact class hatchback for Metroverse city driving.
+CAR-012,Lumen S1 12,Car,Compact,Hatchback,5,187,10.75,8.0,Hybrid,FWD,31750,Compact class hatchback for Metroverse city driving.
+CAR-013,Monarch S1 13,Car,Compact,Hatchback,5,195,11.5,5.5,Petrol,FWD,33000,Compact class hatchback for Metroverse city driving.
+CAR-014,Nexus S1 14,Car,Compact,Hatchback,5,203,11.25,6.0,Petrol,FWD,34250,Compact class hatchback for Metroverse city driving.
+CAR-015,Orion S1 15,Car,Compact,Hatchback,5,155,11.0,6.5,Petrol,FWD,35500,Compact class hatchback for Metroverse city driving.
+CAR-016,Pulse S1 16,Car,Compact,Hatchback,5,163,10.75,7.0,Electric,FWD,36750,Compact class hatchback for Metroverse city driving.
+CAR-017,Quasar S1 17,Car,Compact,Hatchback,5,171,11.5,7.5,Hybrid,FWD,38000,Compact class hatchback for Metroverse city driving.
+CAR-018,Raven S1 18,Car,Compact,Hatchback,5,179,11.25,8.0,Petrol,FWD,39250,Compact class hatchback for Metroverse city driving.
+CAR-019,Solstice S1 19,Car,Compact,Hatchback,5,187,11.0,5.5,Petrol,FWD,40500,Compact class hatchback for Metroverse city driving.
+CAR-020,Titan S1 20,Car,Compact,Hatchback,5,195,10.75,6.0,Petrol,FWD,41750,Compact class hatchback for Metroverse city driving.
+CAR-021,Aster LX 01,Car,Sedan,Sedan,5,190,8.8,5.5,Electric,AWD,26000,Sedan class sedan for Metroverse city driving.
+CAR-022,Boreal LX 02,Car,Sedan,Sedan,5,198,8.55,6.0,Hybrid,AWD,27250,Sedan class sedan for Metroverse city driving.
+CAR-023,Cinder LX 03,Car,Sedan,Sedan,5,206,8.3,6.5,Petrol,AWD,28500,Sedan class sedan for Metroverse city driving.
+CAR-024,Dynamo LX 04,Car,Sedan,Sedan,5,214,8.05,7.0,Petrol,AWD,29750,Sedan class sedan for Metroverse city driving.
+CAR-025,Eclipse LX 05,Car,Sedan,Sedan,5,222,8.8,7.5,Petrol,AWD,31000,Sedan class sedan for Metroverse city driving.
+CAR-026,Falcon LX 06,Car,Sedan,Sedan,5,230,8.55,8.0,Electric,AWD,32250,Sedan class sedan for Metroverse city driving.
+CAR-027,Granite LX 07,Car,Sedan,Sedan,5,238,8.3,5.5,Hybrid,AWD,33500,Sedan class sedan for Metroverse city driving.
+CAR-028,Helix LX 08,Car,Sedan,Sedan,5,190,8.05,6.0,Petrol,AWD,34750,Sedan class sedan for Metroverse city driving.
+CAR-029,Ion LX 09,Car,Sedan,Sedan,5,198,8.8,6.5,Petrol,AWD,36000,Sedan class sedan for Metroverse city driving.
+CAR-030,Javelin LX 10,Car,Sedan,Sedan,5,206,8.55,7.0,Petrol,AWD,37250,Sedan class sedan for Metroverse city driving.
+CAR-031,Kestrel LX 11,Car,Sedan,Sedan,5,214,8.3,7.5,Electric,AWD,38500,Sedan class sedan for Metroverse city driving.
+CAR-032,Lumen LX 12,Car,Sedan,Sedan,5,222,8.05,8.0,Hybrid,AWD,39750,Sedan class sedan for Metroverse city driving.
+CAR-033,Monarch LX 13,Car,Sedan,Sedan,5,230,8.8,5.5,Petrol,AWD,41000,Sedan class sedan for Metroverse city driving.
+CAR-034,Nexus LX 14,Car,Sedan,Sedan,5,238,8.55,6.0,Petrol,AWD,42250,Sedan class sedan for Metroverse city driving.
+CAR-035,Orion LX 15,Car,Sedan,Sedan,5,190,8.3,6.5,Petrol,AWD,43500,Sedan class sedan for Metroverse city driving.
+CAR-036,Pulse LX 16,Car,Sedan,Sedan,5,198,8.05,7.0,Electric,AWD,44750,Sedan class sedan for Metroverse city driving.
+CAR-037,Quasar LX 17,Car,Sedan,Sedan,5,206,8.8,7.5,Hybrid,AWD,46000,Sedan class sedan for Metroverse city driving.
+CAR-038,Raven LX 18,Car,Sedan,Sedan,5,214,8.55,8.0,Petrol,AWD,47250,Sedan class sedan for Metroverse city driving.
+CAR-039,Solstice LX 19,Car,Sedan,Sedan,5,222,8.3,5.5,Petrol,AWD,48500,Sedan class sedan for Metroverse city driving.
+CAR-040,Titan LX 20,Car,Sedan,Sedan,5,230,8.05,6.0,Petrol,AWD,49750,Sedan class sedan for Metroverse city driving.
+CAR-041,Aster Tourer 01,Car,SUV,SUV,7,175,9.6,5.5,Electric,AWD,32000,SUV class suv for Metroverse city driving.
+CAR-042,Boreal Tourer 02,Car,SUV,SUV,7,183,9.35,6.0,Hybrid,AWD,33250,SUV class suv for Metroverse city driving.
+CAR-043,Cinder Tourer 03,Car,SUV,SUV,7,191,9.1,6.5,Petrol,AWD,34500,SUV class suv for Metroverse city driving.
+CAR-044,Dynamo Tourer 04,Car,SUV,SUV,7,199,8.85,7.0,Petrol,AWD,35750,SUV class suv for Metroverse city driving.
+CAR-045,Eclipse Tourer 05,Car,SUV,SUV,7,207,9.6,7.5,Petrol,AWD,37000,SUV class suv for Metroverse city driving.
+CAR-046,Falcon Tourer 06,Car,SUV,SUV,7,215,9.35,8.0,Electric,AWD,38250,SUV class suv for Metroverse city driving.
+CAR-047,Granite Tourer 07,Car,SUV,SUV,7,223,9.1,5.5,Hybrid,AWD,39500,SUV class suv for Metroverse city driving.
+CAR-048,Helix Tourer 08,Car,SUV,SUV,7,175,8.85,6.0,Petrol,AWD,40750,SUV class suv for Metroverse city driving.
+CAR-049,Ion Tourer 09,Car,SUV,SUV,7,183,9.6,6.5,Petrol,AWD,42000,SUV class suv for Metroverse city driving.
+CAR-050,Javelin Tourer 10,Car,SUV,SUV,7,191,9.35,7.0,Petrol,AWD,43250,SUV class suv for Metroverse city driving.
+CAR-051,Kestrel Tourer 11,Car,SUV,SUV,7,199,9.1,7.5,Electric,AWD,44500,SUV class suv for Metroverse city driving.
+CAR-052,Lumen Tourer 12,Car,SUV,SUV,7,207,8.85,8.0,Hybrid,AWD,45750,SUV class suv for Metroverse city driving.
+CAR-053,Monarch Tourer 13,Car,SUV,SUV,7,215,9.6,5.5,Petrol,AWD,47000,SUV class suv for Metroverse city driving.
+CAR-054,Nexus Tourer 14,Car,SUV,SUV,7,223,9.35,6.0,Petrol,AWD,48250,SUV class suv for Metroverse city driving.
+CAR-055,Orion Tourer 15,Car,SUV,SUV,7,175,9.1,6.5,Petrol,AWD,49500,SUV class suv for Metroverse city driving.
+CAR-056,Pulse Tourer 16,Car,SUV,SUV,7,183,8.85,7.0,Electric,AWD,50750,SUV class suv for Metroverse city driving.
+CAR-057,Quasar Tourer 17,Car,SUV,SUV,7,191,9.6,7.5,Hybrid,AWD,52000,SUV class suv for Metroverse city driving.
+CAR-058,Raven Tourer 18,Car,SUV,SUV,7,199,9.35,8.0,Petrol,AWD,53250,SUV class suv for Metroverse city driving.
+CAR-059,Solstice Tourer 19,Car,SUV,SUV,7,207,9.1,5.5,Petrol,AWD,54500,SUV class suv for Metroverse city driving.
+CAR-060,Titan Tourer 20,Car,SUV,SUV,7,215,8.85,6.0,Petrol,AWD,55750,SUV class suv for Metroverse city driving.
+CAR-061,Aster Prime 01,Car,Sports,Coupe,2,260,4.2,5.5,Electric,RWD,58000,Sports class coupe for Metroverse city driving.
+CAR-062,Boreal Prime 02,Car,Sports,Coupe,2,268,3.95,6.0,Hybrid,RWD,59250,Sports class coupe for Metroverse city driving.
+CAR-063,Cinder Prime 03,Car,Sports,Coupe,2,276,3.7,6.5,Petrol,RWD,60500,Sports class coupe for Metroverse city driving.
+CAR-064,Dynamo Prime 04,Car,Sports,Coupe,2,284,3.45,7.0,Petrol,RWD,61750,Sports class coupe for Metroverse city driving.
+CAR-065,Eclipse Prime 05,Car,Sports,Coupe,2,292,4.2,7.5,Petrol,RWD,63000,Sports class coupe for Metroverse city driving.
+CAR-066,Falcon Prime 06,Car,Sports,Coupe,2,300,3.95,8.0,Electric,RWD,64250,Sports class coupe for Metroverse city driving.
+CAR-067,Granite Prime 07,Car,Sports,Coupe,2,308,3.7,5.5,Hybrid,RWD,65500,Sports class coupe for Metroverse city driving.
+CAR-068,Helix Prime 08,Car,Sports,Coupe,2,260,3.45,6.0,Petrol,RWD,66750,Sports class coupe for Metroverse city driving.
+CAR-069,Ion Prime 09,Car,Sports,Coupe,2,268,4.2,6.5,Petrol,RWD,68000,Sports class coupe for Metroverse city driving.
+CAR-070,Javelin Prime 10,Car,Sports,Coupe,2,276,3.95,7.0,Petrol,RWD,69250,Sports class coupe for Metroverse city driving.
+CAR-071,Kestrel Prime 11,Car,Sports,Coupe,2,284,3.7,7.5,Electric,RWD,70500,Sports class coupe for Metroverse city driving.
+CAR-072,Lumen Prime 12,Car,Sports,Coupe,2,292,3.45,8.0,Hybrid,RWD,71750,Sports class coupe for Metroverse city driving.
+CAR-073,Monarch Prime 13,Car,Sports,Coupe,2,300,4.2,5.5,Petrol,RWD,73000,Sports class coupe for Metroverse city driving.
+CAR-074,Nexus Prime 14,Car,Sports,Coupe,2,308,3.95,6.0,Petrol,RWD,74250,Sports class coupe for Metroverse city driving.
+CAR-075,Orion Prime 15,Car,Sports,Coupe,2,260,3.7,6.5,Petrol,RWD,75500,Sports class coupe for Metroverse city driving.
+CAR-076,Pulse Prime 16,Car,Sports,Coupe,2,268,3.45,7.0,Electric,RWD,76750,Sports class coupe for Metroverse city driving.
+CAR-077,Quasar Prime 17,Car,Sports,Coupe,2,276,4.2,7.5,Hybrid,RWD,78000,Sports class coupe for Metroverse city driving.
+CAR-078,Raven Prime 18,Car,Sports,Coupe,2,284,3.95,8.0,Petrol,RWD,79250,Sports class coupe for Metroverse city driving.
+CAR-079,Solstice Prime 19,Car,Sports,Coupe,2,292,3.7,5.5,Petrol,RWD,80500,Sports class coupe for Metroverse city driving.
+CAR-080,Titan Prime 20,Car,Sports,Coupe,2,300,3.45,6.0,Petrol,RWD,81750,Sports class coupe for Metroverse city driving.
+CAR-081,Aster Classic 01,Car,Luxury,Wagon,5,230,5.4,5.5,Electric,AWD,76000,Luxury class wagon for Metroverse city driving.
+CAR-082,Boreal Classic 02,Car,Luxury,Wagon,5,238,5.15,6.0,Hybrid,AWD,77250,Luxury class wagon for Metroverse city driving.
+CAR-083,Cinder Classic 03,Car,Luxury,Wagon,5,246,4.9,6.5,Petrol,AWD,78500,Luxury class wagon for Metroverse city driving.
+CAR-084,Dynamo Classic 04,Car,Luxury,Wagon,5,254,4.65,7.0,Petrol,AWD,79750,Luxury class wagon for Metroverse city driving.
+CAR-085,Eclipse Classic 05,Car,Luxury,Wagon,5,262,5.4,7.5,Petrol,AWD,81000,Luxury class wagon for Metroverse city driving.
+CAR-086,Falcon Classic 06,Car,Luxury,Wagon,5,270,5.15,8.0,Electric,AWD,82250,Luxury class wagon for Metroverse city driving.
+CAR-087,Granite Classic 07,Car,Luxury,Wagon,5,278,4.9,5.5,Hybrid,AWD,83500,Luxury class wagon for Metroverse city driving.
+CAR-088,Helix Classic 08,Car,Luxury,Wagon,5,230,4.65,6.0,Petrol,AWD,84750,Luxury class wagon for Metroverse city driving.
+CAR-089,Ion Classic 09,Car,Luxury,Wagon,5,238,5.4,6.5,Petrol,AWD,86000,Luxury class wagon for Metroverse city driving.
+CAR-090,Javelin Classic 10,Car,Luxury,Wagon,5,246,5.15,7.0,Petrol,AWD,87250,Luxury class wagon for Metroverse city driving.
+CAR-091,Kestrel Classic 11,Car,Luxury,Wagon,5,254,4.9,7.5,Electric,AWD,88500,Luxury class wagon for Metroverse city driving.
+CAR-092,Lumen Classic 12,Car,Luxury,Wagon,5,262,4.65,8.0,Hybrid,AWD,89750,Luxury class wagon for Metroverse city driving.
+CAR-093,Monarch Classic 13,Car,Luxury,Wagon,5,270,5.4,5.5,Petrol,AWD,91000,Luxury class wagon for Metroverse city driving.
+CAR-094,Nexus Classic 14,Car,Luxury,Wagon,5,278,5.15,6.0,Petrol,AWD,92250,Luxury class wagon for Metroverse city driving.
+CAR-095,Orion Classic 15,Car,Luxury,Wagon,5,230,4.9,6.5,Petrol,AWD,93500,Luxury class wagon for Metroverse city driving.
+CAR-096,Pulse Classic 16,Car,Luxury,Wagon,5,238,4.65,7.0,Electric,AWD,94750,Luxury class wagon for Metroverse city driving.
+CAR-097,Quasar Classic 17,Car,Luxury,Wagon,5,246,5.4,7.5,Hybrid,AWD,96000,Luxury class wagon for Metroverse city driving.
+CAR-098,Raven Classic 18,Car,Luxury,Wagon,5,254,5.15,8.0,Petrol,AWD,97250,Luxury class wagon for Metroverse city driving.
+CAR-099,Solstice Classic 19,Car,Luxury,Wagon,5,262,4.9,5.5,Petrol,AWD,98500,Luxury class wagon for Metroverse city driving.
+CAR-100,Titan Classic 20,Car,Luxury,Wagon,5,270,4.65,6.0,Petrol,AWD,99750,Luxury class wagon for Metroverse city driving.
+CAR-101,Aster Elite 01,Car,Utility,Pickup,2,165,10.8,5.5,Electric,RWD,24000,Utility class pickup for Metroverse city driving.
+CAR-102,Boreal Elite 02,Car,Utility,Pickup,2,173,10.55,6.0,Hybrid,RWD,25250,Utility class pickup for Metroverse city driving.
+CAR-103,Cinder Elite 03,Car,Utility,Pickup,2,181,10.3,6.5,Petrol,RWD,26500,Utility class pickup for Metroverse city driving.
+CAR-104,Dynamo Elite 04,Car,Utility,Pickup,2,189,10.05,7.0,Petrol,RWD,27750,Utility class pickup for Metroverse city driving.
+CAR-105,Eclipse Elite 05,Car,Utility,Pickup,2,197,10.8,7.5,Petrol,RWD,29000,Utility class pickup for Metroverse city driving.
+CAR-106,Falcon Elite 06,Car,Utility,Pickup,2,205,10.55,8.0,Electric,RWD,30250,Utility class pickup for Metroverse city driving.
+CAR-107,Granite Elite 07,Car,Utility,Pickup,2,213,10.3,5.5,Hybrid,RWD,31500,Utility class pickup for Metroverse city driving.
+CAR-108,Helix Elite 08,Car,Utility,Pickup,2,165,10.05,6.0,Petrol,RWD,32750,Utility class pickup for Metroverse city driving.
+CAR-109,Ion Elite 09,Car,Utility,Pickup,2,173,10.8,6.5,Petrol,RWD,34000,Utility class pickup for Metroverse city driving.
+CAR-110,Javelin Elite 10,Car,Utility,Pickup,2,181,10.55,7.0,Petrol,RWD,35250,Utility class pickup for Metroverse city driving.
+CAR-111,Kestrel Elite 11,Car,Utility,Pickup,2,189,10.3,7.5,Electric,RWD,36500,Utility class pickup for Metroverse city driving.
+CAR-112,Lumen Elite 12,Car,Utility,Pickup,2,197,10.05,8.0,Hybrid,RWD,37750,Utility class pickup for Metroverse city driving.
+CAR-113,Monarch Elite 13,Car,Utility,Pickup,2,205,10.8,5.5,Petrol,RWD,39000,Utility class pickup for Metroverse city driving.
+CAR-114,Nexus Elite 14,Car,Utility,Pickup,2,213,10.55,6.0,Petrol,RWD,40250,Utility class pickup for Metroverse city driving.
+CAR-115,Orion Elite 15,Car,Utility,Pickup,2,165,10.3,6.5,Petrol,RWD,41500,Utility class pickup for Metroverse city driving.
+CAR-116,Pulse Elite 16,Car,Utility,Pickup,2,173,10.05,7.0,Electric,RWD,42750,Utility class pickup for Metroverse city driving.
+CAR-117,Quasar Elite 17,Car,Utility,Pickup,2,181,10.8,7.5,Hybrid,RWD,44000,Utility class pickup for Metroverse city driving.
+CAR-118,Raven Elite 18,Car,Utility,Pickup,2,189,10.55,8.0,Petrol,RWD,45250,Utility class pickup for Metroverse city driving.
+CAR-119,Solstice Elite 19,Car,Utility,Pickup,2,197,10.3,5.5,Petrol,RWD,46500,Utility class pickup for Metroverse city driving.
+CAR-120,Titan Elite 20,Car,Utility,Pickup,2,205,10.05,6.0,Petrol,RWD,47750,Utility class pickup for Metroverse city driving.
+BIKE-001,MV Swift 125,Bike,Commuter,Motorcycle,2,104,8.25,6.6,Petrol,Chain Drive,7700,Commuter motorcycle tuned for varied city and highway routes.
+BIKE-002,MV Street 200,Bike,Commuter,Motorcycle,2,113,8.0,7.2,Petrol,Chain Drive,9900,Commuter motorcycle tuned for varied city and highway routes.
+BIKE-003,MV Comet 250,Bike,Commuter,Motorcycle,2,122,7.75,7.8,Electric,Chain Drive,12100,Commuter motorcycle tuned for varied city and highway routes.
+BIKE-004,MV Racer 300,Bike,Commuter,Motorcycle,2,131,7.5,8.4,Petrol,Chain Drive,14300,Commuter motorcycle tuned for varied city and highway routes.
+BIKE-005,MV Trail 350,Bike,Street,Motorcycle,2,140,7.25,6.0,Petrol,Chain Drive,16500,Street motorcycle tuned for varied city and highway routes.
+BIKE-006,MV Cruiser 400,Bike,Street,Motorcycle,2,149,7.0,6.6,Petrol,Chain Drive,18700,Street motorcycle tuned for varied city and highway routes.
+BIKE-007,MV Nighthawk 450,Bike,Street,Motorcycle,2,158,6.75,7.2,Petrol,Chain Drive,20900,Street motorcycle tuned for varied city and highway routes.
+BIKE-008,MV Roadster 500,Bike,Street,Motorcycle,2,167,6.5,7.8,Petrol,Chain Drive,23100,Street motorcycle tuned for varied city and highway routes.
+BIKE-009,MV Vortex 550,Bike,Sport,Motorcycle,2,176,6.25,8.4,Petrol,Chain Drive,25300,Sport motorcycle tuned for varied city and highway routes.
+BIKE-010,MV Touring 600,Bike,Sport,Motorcycle,2,185,6.0,6.0,Electric,Chain Drive,27500,Sport motorcycle tuned for varied city and highway routes.
+BIKE-011,MV Apex 650,Bike,Sport,Motorcycle,2,194,5.75,6.6,Petrol,Chain Drive,29700,Sport motorcycle tuned for varied city and highway routes.
+BIKE-012,MV Enduro 700,Bike,Sport,Motorcycle,2,203,5.5,7.2,Petrol,Chain Drive,31900,Sport motorcycle tuned for varied city and highway routes.
+BIKE-013,MV Phantom 750,Bike,Adventure,Motorcycle,2,212,5.25,7.8,Petrol,Chain Drive,34100,Adventure motorcycle tuned for varied city and highway routes.
+BIKE-014,MV Sprint 800,Bike,Adventure,Motorcycle,2,221,5.0,8.4,Petrol,Chain Drive,36300,Adventure motorcycle tuned for varied city and highway routes.
+BIKE-015,MV Velocity 850,Bike,Adventure,Motorcycle,2,230,4.75,6.0,Petrol,Chain Drive,38500,Adventure motorcycle tuned for varied city and highway routes.
+BIKE-016,MV Interceptor 900,Bike,Adventure,Motorcycle,2,239,4.5,6.6,Petrol,Chain Drive,40700,Adventure motorcycle tuned for varied city and highway routes.
+BIKE-017,MV Thunder 950,Bike,Cruiser,Motorcycle,2,248,4.25,7.2,Electric,Chain Drive,42900,Cruiser motorcycle tuned for varied city and highway routes.
+BIKE-018,MV Superbike 1000,Bike,Cruiser,Motorcycle,2,257,4.0,7.8,Petrol,Chain Drive,45100,Cruiser motorcycle tuned for varied city and highway routes.
+BIKE-019,MV Hyperion 1100,Bike,Cruiser,Motorcycle,2,266,3.75,8.4,Petrol,Chain Drive,47300,Cruiser motorcycle tuned for varied city and highway routes.
+BIKE-020,MV Grand Tour 1200,Bike,Cruiser,Motorcycle,2,275,3.5,6.0,Petrol,Chain Drive,49500,Cruiser motorcycle tuned for varied city and highway routes.
