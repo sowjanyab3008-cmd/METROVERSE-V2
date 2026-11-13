@@ -1,0 +1,20 @@
+{
+  "project": "MetroVerse V2",
+  "engine": "Unreal Engine 5.6",
+  "platform": "Android",
+  "world": {
+    "openWorld": true,
+    "cityCount": 8
+  },
+  "systems": {
+    "characterCreation": true,
+    "factions": true,
+    "government": true,
+    "police": true,
+    "hospital": true,
+    "economy": true,
+    "jobs": true,
+    "vehicles": true,
+    "multiplayer": true
+  }
+}
